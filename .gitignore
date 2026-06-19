@@ -1,0 +1,19 @@
+# API keys & secrets
+.env
+.streamlit/secrets.toml
+
+# Memory & cache
+memory/
+pdfs/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
