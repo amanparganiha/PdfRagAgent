@@ -11,9 +11,11 @@ A conversational AI agent powered by OpenAI's GPT-4o that can **read your PDF do
 
 ## 🌐 Live Demo
 
-**Try it here:** [your-app.streamlit.app](https://your-app.streamlit.app) <!-- TODO: replace with your real Streamlit Cloud URL after deploying -->
+**Try it here:** [pdfragagent.streamlit.app](https://pdfragagent.streamlit.app/)
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app.streamlit.app) <!-- TODO: same URL here -->
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://pdfragagent.streamlit.app/)
+
+> **Bring your own key:** the live demo doesn't ship an API key — paste your own OpenAI key in the sidebar (it's used only for your session and never stored).
 
 Upload a PDF in the sidebar, then ask questions about it — or ask anything and let the agent search the web.
 
